@@ -5605,7 +5605,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="47.62" default-y="-135.00" dynamics="88.89">
+      <note default-x="47.62" default-y="-120.00" dynamics="88.89">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5621,12 +5621,12 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>3</string>
-            <fret>7</fret>
+            <string>2</string>
+            <fret>3</fret>
             </technical>
           </notations>
         </note>
-      <note default-x="78.39" default-y="-120.00" dynamics="88.89">
+      <note default-x="78.39" default-y="-105.00" dynamics="88.89">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5643,8 +5643,8 @@
         <notations>
           <tuplet type="stop"/>
           <technical>
-            <string>2</string>
-            <fret>6</fret>
+            <string>1</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
@@ -5662,7 +5662,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="153.84" default-y="-135.00" dynamics="88.89">
+      <note default-x="153.84" default-y="-120.00" dynamics="88.89">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5678,12 +5678,12 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>3</string>
-            <fret>7</fret>
+            <string>2</string>
+            <fret>3</fret>
             </technical>
           </notations>
         </note>
-      <note default-x="184.60" default-y="-120.00" dynamics="88.89">
+      <note default-x="184.60" default-y="-105.00" dynamics="88.89">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5700,8 +5700,8 @@
         <notations>
           <tuplet type="stop"/>
           <technical>
-            <string>2</string>
-            <fret>6</fret>
+            <string>1</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
@@ -5719,7 +5719,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="246.13" default-y="-135.00" dynamics="88.89">
+      <note default-x="246.13" default-y="-120.00" dynamics="88.89">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5735,12 +5735,12 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>3</string>
-            <fret>7</fret>
+            <string>2</string>
+            <fret>3</fret>
             </technical>
           </notations>
         </note>
-      <note default-x="276.89" default-y="-120.00" dynamics="88.89">
+      <note default-x="276.89" default-y="-105.00" dynamics="88.89">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5757,8 +5757,8 @@
         <notations>
           <tuplet type="stop"/>
           <technical>
-            <string>2</string>
-            <fret>6</fret>
+            <string>1</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
@@ -5776,7 +5776,7 @@
           <tuplet type="start" bracket="no"/>
           </notations>
         </note>
-      <note default-x="338.42" default-y="-135.00" dynamics="88.89">
+      <note default-x="338.42" default-y="-120.00" dynamics="88.89">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -5792,12 +5792,12 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>3</string>
-            <fret>7</fret>
+            <string>2</string>
+            <fret>3</fret>
             </technical>
           </notations>
         </note>
-      <note default-x="369.19" default-y="-120.00" dynamics="88.89">
+      <note default-x="369.19" default-y="-105.00" dynamics="88.89">
         <pitch>
           <step>F</step>
           <octave>4</octave>
@@ -5814,8 +5814,8 @@
         <notations>
           <tuplet type="stop"/>
           <technical>
-            <string>2</string>
-            <fret>6</fret>
+            <string>1</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
