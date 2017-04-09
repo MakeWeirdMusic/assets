@@ -5,7 +5,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.0.3.1</software>
-      <encoding-date>2017-04-01</encoding-date>
+      <encoding-date>2017-04-08</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -19971,7 +19971,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="166.51" default-y="-414.00">
+      <note default-x="166.51" default-y="-399.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -19983,12 +19983,12 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>5</string>
-            <fret>5</fret>
+            <string>4</string>
+            <fret>0</fret>
             </technical>
           </notations>
         </note>
-      <note default-x="190.17" default-y="-429.00">
+      <note default-x="190.17" default-y="-414.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -20001,8 +20001,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>6</string>
-            <fret>8</fret>
+            <string>5</string>
+            <fret>3</fret>
             </technical>
           </notations>
         </note>
@@ -21839,7 +21839,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="267.10" default-y="-444.00">
+      <note default-x="267.10" default-y="-459.00">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -21851,8 +21851,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>7</string>
-            <fret>3</fret>
+            <string>8</string>
+            <fret>8</fret>
             </technical>
           </notations>
         </note>
@@ -21967,7 +21967,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="151.36" default-y="-444.00">
+      <note default-x="151.36" default-y="-459.00">
         <pitch>
           <step>D</step>
           <octave>2</octave>
@@ -21979,8 +21979,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>7</string>
-            <fret>3</fret>
+            <string>8</string>
+            <fret>8</fret>
             </technical>
           </notations>
         </note>
@@ -24695,7 +24695,7 @@
       <backup>
         <duration>36</duration>
         </backup>
-      <note default-x="77.97" default-y="-474.00">
+      <note default-x="77.97" default-y="-459.00">
         <pitch>
           <step>G</step>
           <octave>1</octave>
@@ -24712,8 +24712,8 @@
         <notations>
           <tuplet type="start" bracket="no"/>
           <technical>
-            <string>9</string>
-            <fret>7</fret>
+            <string>8</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
@@ -24761,7 +24761,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="147.30" default-y="-474.00">
+      <note default-x="147.30" default-y="-459.00">
         <pitch>
           <step>G</step>
           <octave>1</octave>
@@ -24778,8 +24778,8 @@
         <notations>
           <tuplet type="start" bracket="no"/>
           <technical>
-            <string>9</string>
-            <fret>7</fret>
+            <string>8</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
@@ -26119,7 +26119,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="177.59" default-y="-444.00">
+      <note default-x="177.59" default-y="-459.00">
         <pitch>
           <step>C</step>
           <octave>2</octave>
@@ -26131,8 +26131,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>7</string>
-            <fret>1</fret>
+            <string>8</string>
+            <fret>6</fret>
             </technical>
           </notations>
         </note>
@@ -29167,7 +29167,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="281.95" default-y="-429.00">
+      <note default-x="281.95" default-y="-414.00">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -29183,8 +29183,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>6</string>
-            <fret>7</fret>
+            <string>5</string>
+            <fret>2</fret>
             </technical>
           </notations>
         </note>
@@ -29454,7 +29454,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="102.90" default-y="-444.00">
+      <note default-x="102.90" default-y="-429.00">
         <pitch>
           <step>F</step>
           <alter>1</alter>
@@ -29472,8 +29472,8 @@
         <notations>
           <tuplet type="start" bracket="no"/>
           <technical>
-            <string>7</string>
-            <fret>7</fret>
+            <string>6</string>
+            <fret>2</fret>
             </technical>
           </notations>
         </note>
@@ -32308,7 +32308,7 @@
             </technical>
           </notations>
         </note>
-      <note default-x="246.31" default-y="-444.00">
+      <note default-x="246.31" default-y="-459.00">
         <pitch>
           <step>C</step>
           <octave>2</octave>
@@ -32325,8 +32325,8 @@
         <notations>
           <tuplet type="stop"/>
           <technical>
-            <string>7</string>
-            <fret>1</fret>
+            <string>8</string>
+            <fret>6</fret>
             </technical>
           </notations>
         </note>
@@ -34080,7 +34080,7 @@
       <backup>
         <duration>36</duration>
         </backup>
-      <note default-x="77.97" default-y="-474.00">
+      <note default-x="77.97" default-y="-459.00">
         <pitch>
           <step>G</step>
           <octave>1</octave>
@@ -34092,8 +34092,8 @@
         <staff>2</staff>
         <notations>
           <technical>
-            <string>9</string>
-            <fret>7</fret>
+            <string>8</string>
+            <fret>1</fret>
             </technical>
           </notations>
         </note>
